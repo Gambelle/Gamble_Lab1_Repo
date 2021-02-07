@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 print ("Hello World?");
+||||||| merged common ancestors
+int x = 0;
+=======
+print ("Hello World!")
+>>>>>>> answer
